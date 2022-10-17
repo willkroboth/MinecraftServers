@@ -1,11 +1,19 @@
 # SPIGOT
 # Build directories
-/*.*/apache-maven-3.6.0/**
-/*.*/BuildData/**
-/*.*/Bukkit/**
-/*.*/CraftBukkit/**
-/*.*/Spigot/**
-/*.*/work/**
+/1.19.1/apache-maven-3.6.0/**
+/1.19.1/BuildData/**
+/1.19.1/Bukkit/**
+/1.19.1/CraftBukkit/**
+/1.19.1/Spigot/**
+/1.19.1/work/**
+/1.19.1/BuildTools.log.txt
+
+#/*.*/apache-maven-3.6.0/**
+#/*.*/BuildData/**
+#/*.*/Bukkit/**
+#/*.*/CraftBukkit/**
+#/*.*/Spigot/**
+#/*.*/work/**
 
 # Miscellaneous files
-/*.*/BuildTools.log.txt
+#/*.*/BuildTools.log.txt
