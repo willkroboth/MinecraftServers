@@ -1,0 +1,10 @@
+# SPIGOT
+# Build directories
+/*.*/apache-maven-3.6.0/bin
+/*.*/BuildData/**
+/*.*/Bukkit/**
+/*.*/CraftBukkit/**
+/*.*/Spigot/**
+/*.*/work/**
+# Miscellaneous files
+/*.*/BuildTools.log.txt
