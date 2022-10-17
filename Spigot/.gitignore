@@ -6,5 +6,6 @@
 /*.*/CraftBukkit/**
 /*.*/Spigot/**
 /*.*/work/**
+
 # Miscellaneous files
 /*.*/BuildTools.log.txt
