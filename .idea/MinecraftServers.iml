@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.13.1/Bukkit/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.13.1/CraftBukkit/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.13.1/Spigot/Spigot-API/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.13.1/Spigot/Spigot-Server/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.15/Bukkit/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.15/CraftBukkit/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.15/Spigot/Spigot-API/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.15/Spigot/Spigot-Server/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.16.5/Spigot/Spigot-API/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.16.5/Spigot/Spigot-Server/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.17/Bukkit/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.17/CraftBukkit/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.17/Spigot/Spigot-API/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.17/Spigot/Spigot-Server/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.17.1/Spigot/Spigot-API/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.17.1/Spigot/Spigot-Server/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.18/Spigot/Spigot-API/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.18/Spigot/Spigot-Server/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.18.1/Spigot/Spigot-API/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.18.1/Spigot/Spigot-Server/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.18.2/Spigot/Spigot-API/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.18.2/Spigot/Spigot-Server/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.19/Spigot/Spigot-API/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.19/Spigot/Spigot-Server/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.19.1/Spigot/Spigot-API/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.19.1/Spigot/Spigot-Server/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.19.2/Spigot/Spigot-API/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Spigot/1.19.2/Spigot/Spigot-Server/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
