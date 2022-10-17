@@ -4,6 +4,7 @@
 **/Bukkit/
 **/CraftBukkit/
 **/Spigot/
+!/Spigot/
 **/work/
 
 # Miscellaneous files
