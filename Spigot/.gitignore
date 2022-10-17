@@ -1,4 +1,3 @@
-# SPIGOT
 # Build directories
 /*.*/apache-maven-3.6.0/
 /*.*/BuildData/
@@ -8,4 +7,4 @@
 /*.*/work/
 
 # Miscellaneous files
-**/BuildTools.log.*
+**/BuildTools.log*
