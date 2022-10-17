@@ -1,10 +1,10 @@
 # SPIGOT
 # Build directories
-Spigot/1.*/apache-maven-3.6.0/
-Spigot/1.*/BuildData/
-Spigot/1.*/Bukkit/
-Spigot/1.*/CraftBukkit/
-Spigot/1.*/Spigot/
-Spigot/1.*/work/
+Spigot/1.*/apache-maven-3.6.0/**
+Spigot/1.*/BuildData/**
+Spigot/1.*/Bukkit/**
+Spigot/1.*/CraftBukkit/**
+Spigot/1.*/Spigot/**
+Spigot/1.*/work/**
 # Miscellaneous files
 Spigot/1.*/BuildTools.log.txt
