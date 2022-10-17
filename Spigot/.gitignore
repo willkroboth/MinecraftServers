@@ -1,6 +1,10 @@
-*/apache-maven-3.6.0/*
-*/BuildData/*
-*/Bukkit/*
-*/CraftBukkit/*
-*/Spigot/*
-*/work/*
+# Built directories
+**/apache-maven-3.6.0/
+**/BuildData/
+**/Bukkit/
+**/CraftBukkit/
+**/Spigot/
+**/work/
+
+# Miscellaneous files
+*/BuildTools.log.txt
