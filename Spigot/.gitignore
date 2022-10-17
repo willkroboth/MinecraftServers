@@ -8,6 +8,4 @@
 /*.*/work/
 
 # Miscellaneous files
-/1.19.1/BuildTools.log.txt
-
-/*.*/BuildTools.log.txt
+**/BuildTools.log.txt
