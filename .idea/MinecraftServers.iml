@@ -34,5 +34,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="maven-shaded-0.0.1-SNAPSHOT" level="application" />
+    <orderEntry type="library" name="CommandAPI-8.6.0-SNAPSHOT_22_Oct_2022_(11-16-42AM)" level="project" />
+    <orderEntry type="library" name="CommandAPI-8.6.0-SNAPSHOT_24_Oct_2022_(11-14-40AM)" level="project" />
+    <orderEntry type="library" name="CommandAPI-9.0.0-SNAPSHOT_29_Oct_2022_(10-37-59PM)" level="project" />
+    <orderEntry type="library" name="maven-annotations-0.0.1-SNAPSHOT" level="project" />
   </component>
 </module>
