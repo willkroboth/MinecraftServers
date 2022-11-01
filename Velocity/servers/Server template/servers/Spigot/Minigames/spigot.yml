@@ -1,2 +1,3 @@
 settings:
   timeout-time: 6000
+  bungeecord: true
