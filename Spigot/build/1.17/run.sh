@@ -1,5 +1,5 @@
 source "$HOME/.sdkman/bin/sdkman-init.sh"
-sdk use java 17.0.3-tem
+sdk use java 16.0.2-open
 
 ../clean.sh
 
