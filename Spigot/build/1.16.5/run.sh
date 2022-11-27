@@ -1,2 +1,6 @@
-sdk use java 16.0.2-open
+../useJava11.sh
+
+../clean.sh
+
+echo Rebuilding...
 java -jar ../BuildTools.jar --rev 1.16.5

@@ -1,4 +1,4 @@
-sdk use java 17.0.3-tem
+../useJava17.sh
 
 ../clean.sh
 
