@@ -6,6 +6,6 @@ rm -r -f ./Bukkit/
 rm -r -f ./CraftBukkit/
 rm -r -f ./Spigot/
 rm -r -f ./work/
-rm -f BuildTools.log.txt
+#rm -f BuildTools.log.txt
 
 echo Done!
