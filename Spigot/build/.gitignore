@@ -1,5 +1,5 @@
 # Build directories
-/*.*/apache-maven-3.6.0/
+/*.*/apache-maven-*/
 /*.*/BuildData/
 /*.*/Bukkit/
 /*.*/CraftBukkit/
